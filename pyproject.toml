@@ -10,6 +10,7 @@ python = "^3.12"
 ipykernel = "^6.29.4"
 pandas = "^2.2.1"
 tqdm = "^4.66.2"
+fastai = "^2.7.14"
 
 
 [build-system]
